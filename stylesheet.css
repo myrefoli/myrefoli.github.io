@@ -5,11 +5,13 @@ body {
 h1 {
   font-family: verdana;
   text-align: center;
+  color: #444444;
 }
 
 p {
   font-family: verdana;
   font-size: 18px;
+  color: #444444;
 }
 
 content {
