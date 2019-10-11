@@ -16,5 +16,6 @@ p {
 
 .content {
   width: 600px;
+  background: white;
   margin: auto;
 }
