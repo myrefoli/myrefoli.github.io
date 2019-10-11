@@ -14,7 +14,7 @@ p {
   color: #444444;
 }
 
-content {
+.content {
   width: 600px;
   margin: auto;
 }
