@@ -15,7 +15,8 @@ p {
 }
 
 #box {
-  width: 600px;
+  width: 800px;
   background-color: white;
   margin: auto;
+  padding: 20px;
 }
