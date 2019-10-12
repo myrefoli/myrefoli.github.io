@@ -14,8 +14,8 @@ p {
   color: #444444;
 }
 
-div.content {
+.box {
   width: 600px;
-  background: white;
+  background-color: white;
   margin: auto;
 }
