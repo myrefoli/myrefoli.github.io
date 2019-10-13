@@ -1,22 +1,21 @@
 body {
-  background-color: lightblue;
+  background-color: #FFEBCF;
 }
 
 h1 {
-  font-family: verdana;
+  font-family: 'Helvetica', 'Arial', sans-serif;
   text-align: center;
   color: #444444;
 }
 
 p {
-  font-family: verdana;
+  font-family: 'Helvetica', 'Arial', sans-serif;
   font-size: 18px;
   color: #444444;
 }
 
 #box {
   width: 700px;
-  background-color: white;
   margin: auto;
   padding: 20px;
 }
